@@ -1,0 +1,10 @@
+Package: rTestPackage
+Title: R Test Package
+Author: Test
+Maintainer: Test <test@test.com>
+Version: 0.0.1
+Description: R Test Package
+Depends: R (>= 3.3.2)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
